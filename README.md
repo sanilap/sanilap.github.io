@@ -1,8 +1,4 @@
-Demo: [http://webjeda.com/gatok](http://webjeda.com/gatok)
+![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/180603.jpg)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+## Welcome My Blog 
+사탕처럼 달콤하다는데 -
