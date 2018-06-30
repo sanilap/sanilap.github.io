@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[Jqeury-UI] selectmenu 컨트롤하기"
+---
+
+## [Jquery-UI] selectmenu 컨트롤하기.
+
+<script src="{{ "/js/jquery.js" | prepend: site.baseurl }}""></script>
+<script src="{{ "/js/jquery-ui.js" | prepend: site.baseurl }}"></script>
+
+<select id="sel_01">
+<option>01</option>
+<option>02</option>
+<option>03</option>
+<option>04</option>
+<option>05</option>
+</select>
+
+
+<script>
+alert("!!");
+$('#sel_01').selectmenu();
+
+</script>
+<!--![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/180602.jpg)-->
