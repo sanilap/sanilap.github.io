@@ -9,7 +9,7 @@
 title: SANI BLOG
 email: susan.bae90@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gatok is a minimal jekyll theme with a 3d menu bar.
+ 공부하는 사니의 잡다한 IT 랩실
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sanilap.github.io" # the base hostname & protocol for your site
 
