@@ -4,11 +4,7 @@ title:  "[Jqeury-UI] selectmenu 컨트롤하기"
 ---
 
 
-<script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/jquery-ui.js" | prepend: site.baseurl }}"></script>
-
-'''javascript
-<select id="sel_01">
+<select class="selectmenu" id="selectmenu">
 <option>01</option>
 <option>02</option>
 <option>03</option>
@@ -16,10 +12,9 @@ title:  "[Jqeury-UI] selectmenu 컨트롤하기"
 <option>05</option>
 </select>
 
-
 <script>
-$('#sel_01').selectmenu();
+$('.selectmenu').selectmenu();
 
 </script>
-'''
+
 <!--![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/180602.jpg)-->
