@@ -3,9 +3,8 @@ layout: post
 title:  "[Jqeury-UI] selectmenu 컨트롤하기"
 ---
 
-## [Jquery-UI] selectmenu 컨트롤하기.
 
-<script src="{{ "/js/jquery.js" | prepend: site.baseurl }}""></script>
+<script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/jquery-ui.js" | prepend: site.baseurl }}"></script>
 
 <select id="sel_01">
