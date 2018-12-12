@@ -23,4 +23,4 @@ Travel
 In Seoul, South Korea.
 <Br>Have a good day :) 
 
-![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/180601.jpg)
+![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/mainImg/main_01.jpg)
