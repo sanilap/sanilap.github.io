@@ -1,55 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Permalinks
+permalink:           pretty
 
-# Site settings
-title: SANI BLOG
-email: susan.bae90@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
- 공부하는 사니의 잡다한 IT 랩실
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sanilap.github.io" # the base hostname & protocol for your site
+# Setup
+title:               Progress
+tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
+url:                 http://alexanderussell.github.io
+baseurl:             /progress-for-jekyll
+analytics_id:
 
-
-# Build settings
-markdown: kramdown
-baseurl: /
-permalink: /:title/
-
-disqus-shortname: SANI
-
-
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-sass:
-  style: compressed
-
-analytics: UA-83979019-1
-
-version: 1.0
-
-gems: [jekyll-paginate, jekyll-seo-tag]
+# Owner/author information
+owner:
+  name:           Alex Russell
+  avatar:         avatar.png
+  bio:            "Designer."
+  email:          alex@collectivelymade.com
+  twitter:        alexanderussell
+  github:         alexanderussell
+  instagram:      alexanderussell
+  dribbble:       alexanderussell
+  location:       "Lincoln, NE"
 
 
-prose:
-  rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'images'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
+# Custom vars
+version:             2.0.0
+github:
+  repo:              
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Gems
+gems:
+  - jekyll-paginate
