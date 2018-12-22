@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "tech test"
+categories: jekyll update
+img: image-4.png
+---
+test
+
+<!--![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/180602.jpg)-->
