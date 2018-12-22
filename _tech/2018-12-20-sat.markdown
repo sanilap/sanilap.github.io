@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "감기-"
+categories: jekyll update
+img: image-4.png
+---
+test
+![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/1806/18121201.jpg)
