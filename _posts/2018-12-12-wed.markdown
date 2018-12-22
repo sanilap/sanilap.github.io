@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "감기-"
-categories: jekyll update
+categories: [tech]
 img: image-4.png
 ---
 감기에 걸렸다. 며칠째 계속 되는지 모르겠다. 목이 너무 아파서 괴롭다. 몸이 아프니 정신력도 약해지고 삶의 질이 떨어지는 것을 확실히 느끼게 된다. 얼른 감기가 다 나았으면 좋겠다. ㅠㅠ 갑자기 연안식당에서 먹었던 꼬막비빔밥이랑 만두가 생각남 ...
